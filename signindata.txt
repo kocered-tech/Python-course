@@ -1,0 +1,3 @@
+beyza@gmail.com,1234,isStudent
+erdem@gmail.com,7891,isStudent
+hayrettin@gmail.com,6789,isTeacher

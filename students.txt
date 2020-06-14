@@ -1,0 +1,4 @@
+beyza,bakır,21802162,beyza@gmail.com,IE 
+erdem,koçer,21803474,erdemko@gmail.com,EEE 
+sude,dubek,21939932,18213@gmail.com,IE 
+sevil,bakır,213143213,sevil@gmail.com,EEE
